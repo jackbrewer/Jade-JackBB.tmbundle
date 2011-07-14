@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Jade - JackBB</string>
+	<key>ordering</key>
+	<array>
+		<string>5D5174B8-B7F2-499C-A360-5FCB485779A1</string>
+		<string>D941F2CF-76E4-497E-ABA3-54CB311F47E3</string>
+		<string>7FBD5DB2-8012-4BC1-B4AD-603E0CD2FD67</string>
+	</array>
 	<key>uuid</key>
 	<string>A4099B1B-5D83-402A-9458-B670F46B8AE5</string>
 </dict>
